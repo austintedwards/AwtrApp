@@ -9,7 +9,7 @@ knex seed:run
 
 ##Team Logo:
 
-![Team Logo](./assets/TeamAWTR.png)
+![Team Logo](/public/images/awtrGroupIcon-01.svg)
 
 ##Catch phrase:  Link with your travel buddies.
 
