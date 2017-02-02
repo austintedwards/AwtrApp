@@ -22,9 +22,6 @@ knex seed:run
 ##Project Name:
 * Awtr — Asynchronous Web Timetable Resource
 
-##Landing Page Concept:
-
-![Landing Page](./assets/awtrApp.png)
 
 ##Project Description:
 * We are creating an asynchronous app that will allow family members to log in and create groups to coordinate their activities through a shared timetable.  
